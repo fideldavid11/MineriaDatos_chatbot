@@ -1,0 +1,88 @@
+[
+
+        {
+            "bot_respuesta" : "hola bienvenido al ITLA en que puedo ayudarte?",
+            "lista_palabras" :["hola", "saludos", "buenas"],
+            "respuesta_simple" : true,
+            "palabras_claves": []
+        },
+
+        {
+            "bot_respuesta" : "Estoy bien y tu?",
+            "lista_palabras": ["como", "estas", "va", "vas", "sientes"],
+            "respuesta_simple": false,
+            "palabras_claves": ["como"]
+        },
+
+        {
+            "bot_respuesta" : "Estamos ubicados en la caleta, boca chica",
+            "lista_palabras": ["ubicados","direccion","ubicacion","donde"],
+            "respuesta_simple": true,
+            "palabras_claves": ["donde"]
+        },
+        
+        {
+            "bot_respuesta": "Se puede retirar asignaturas en Orbi.edu.do",
+            "lista_palabras": ["retiro", "retirar","eliminar"]
+            
+            
+        },
+        
+        {
+            "bot_respuesta": "le recomendamos a juan restituyo",
+            "lista_palabras": ["mineria", "maestro","mejor", "recomendacion"],
+            "respuesta_simple": true,
+            "palabras_clave":["mineria"]
+        },
+        
+        {
+            "bot_respuesta": "tiene la duracion de 2 años",
+            "lista_palabras": ["duracion", "tecnologo", "software"]
+        },
+        
+        {
+            "bot_respuesta": "La pasantia se puede realizar despues de haber cursado una cantidad minima de creditos",
+            "lista_palabras": ["pasantia", "tiempo", "cuando0", "realizar"],
+            "respuesta_simple": true,
+            "palabras_clave": ["pasantia"]
+        },
+        
+        {
+            "bot_respuesta": "El rector actual es Omar Méndez Lluberes",
+            "lista_palabras": ["rector", "director","dirige"]
+            
+        },
+        
+        {
+            "bot_respuesta": "Le recomendamos a Juan Luis Rosario como maestro de programacion en el itla",
+            "lista_palabras": ["software", "maestro", "programacion"],
+            "respuesta_simple": true,
+            "palabras_clave": ["programacion"]
+        },
+        
+        {
+            "bot_respuesta":"El proceso de inscripcion se realiza de manera virtual en Orbi.edu.do",
+            "lista_palabras":["donde", "proceso", "inscripcion", "inscribirme"],
+            "respuesta_simple": true
+        },
+        
+        {
+            "bot_respuesta":"Estamos laborando desde las 8 de la mañana hasta las 5:30 de la tarde",
+            "lista_palabras":["horario","laboral", "laboran", "hora", "hasta"],
+            "respuesta_simple": true
+        },
+        
+        {
+            "bot_respuesta": "ITLA significa Instituto Tecnologico De Las Americas",
+            "lista_palabras": ["significa", "itla", "acronimo"],
+            "respuesta_simple": true,
+            "palabras_clave": ["significa"]
+        },
+        
+        {
+            "bot_respuesta": "Siempre a la orden",
+            "lista_palabras": ["gracias", "thanks", "thx"],
+            "respuesta_simple": true
+        }
+        
+]

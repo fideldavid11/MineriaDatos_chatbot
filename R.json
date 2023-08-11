@@ -1,0 +1,86 @@
+[
+    {
+        "bot_respuesta":"Bienvenido al chatbot de preguntas sobre el ITLA",
+        "Lista_palabras":["hola","klk","saludos","buenas"],
+        "respuesta_simple":true,
+        "palabras_claves":[]
+
+    },
+    {
+        "bot_respuesta":"El ITLA tiene 15 carrera tecnologica, entre ellas esta sofware y mecatronica.",
+        "Lista_palabras":["carrera", "¿cuanta carrera tiene el Itla?"],
+        "respuesta_simple":false,
+        "palabras_claves":["carrera"]
+
+    },
+    {
+        "bot_respuesta":"Las carrera en el Itla duran 2 años y 4 meses y depende de la carrera sera la cantidad de creditos.",
+        "Lista_palabras":["¿cuanto tiempo dura? ","tiempo"],
+        "respuesta_simple":true,
+        "palabras_claves":[]
+
+    },
+    {
+        "bot_respuesta":"la carrera que el Itla tiene son: simulaciones interactivas y videojuegos, telecomunicaciones, inteligencia artificial, informatica forense, energia renovables, redes de informacion, mecatronica, manufactura automatizada, manufactura de dispositivos medicos,diseño industrial, multimedia, sonido, desarrollo de software analitica y ciencia de los datos, seguridad informatica.",
+        "Lista_palabras":["cuales carreras tiene el itla","cuales"],
+        "respuesta_simple":true,
+        "palabras_claves":[]
+
+    },
+    {
+        "bot_respuesta":"tienes los 4 edificos principales, la villa y el politecnico.",
+        "Lista_palabras":["edificios","¿cuantos edificios tiene el itla?"],
+        "respuesta_simple":false,
+        "palabras_claves":["edificios"]
+
+    },
+    {
+        "bot_respuesta":"El itla tiene un trasporte con dos ruta, una por la 27 y otro po la charles.",
+        "Lista_palabras":["transporte"," ¿cual es la ruta de transporte?"],
+        "respuesta_simple":false,
+        "palabras_claves":["transporte"]
+
+    },
+    {
+        "bot_respuesta":"500 para incribirse y como estudiente 6,625.",
+        "Lista_palabras":[" ¿cual es el pago de inscripciones?","pago"],
+        "respuesta_simple":false,
+        "palabras_claves":["pago"]
+
+    },
+    {
+        "bot_respuesta":"Omar Méndez Lluberes.",
+        "Lista_palabras":["rector","¿como se llama el rector?"],
+        "respuesta_simple":true,
+        "palabras_claves":[]
+
+    },
+    {
+        "bot_respuesta":"Autopista Las Américas, km. 27, PCSD, La Caleta, Boca Chica Santo Domingo, República Dominicana.",
+        "Lista_palabras":["¿donde esta la ubicacion del itla?","ubicacion"],
+        "respuesta_simple":false,
+        "palabras_claves":["ubicacion"]
+
+    },
+    {
+        "bot_respuesta":"Realizar la solicitud de admisión ,Realizar el pago por derecho a admisión de RD$500.00 , Adjuntar los documentos digitalizados en la plataforma ORBI.",
+        "Lista_palabras":["¿cual es el procedimiento de admision?","admision"],
+        "respuesta_simple":false,
+        "palabras_claves":["admision"]
+
+    },
+    {
+        "bot_respuesta":"TLA quedó formalmente constituido como una institución pública el 15 de agosto del año 2000, emitido por el entonces Presidente de la República Dr. Leonel Fernández, aunque la inauguración se llevó a cabo el 13 de agosto de ese año, considerándose esa la fecha de aniversario de la institución.",
+        "Lista_palabras":["fundo","¿cuando se fundo el Itla?"],
+        "respuesta_simple":false,
+        "palabras_claves":["fundo"]
+
+    },
+    {
+        "bot_respuesta":"Siempre a la orden",
+        "Lista_palabras":["gracias","te lo agradezco","thanks"],
+        "respuesta_simple":true,
+        "palabras_claves":[]
+
+    }
+]
